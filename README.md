@@ -166,6 +166,9 @@ Working on this AWS VPC Peering project helped me understand and practice severa
 - **Debugging & Testing** – Practiced using ping, curl, and browser access to verify connectivity and troubleshoot networking issues.  
 - **GitHub Documentation** – Learned to document project setup, usage, and results in a clear and professional manner.  
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 
